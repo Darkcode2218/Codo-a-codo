@@ -43,6 +43,7 @@ header{
 
 .hamburger{
     position: fixed;
+    
     top: 30px;
     right: 30px;
     background: #fff;
@@ -71,7 +72,7 @@ header{
 }
 
 .spread{
-    transform: translate(0);
+    transform: translate(0); 
 }
 
 .menu-navegacion a{
